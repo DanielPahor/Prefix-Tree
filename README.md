@@ -1,2 +1,7 @@
 # Prefix-Tree
-A prefix tree data structure built in Java, includes tests
+
+A prefix tree data structure.
+
+# Notes
+
+I made this project in my first year of university.
